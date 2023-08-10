@@ -61,6 +61,13 @@
       "category": "Music",
       "price": 400
     }
+  ],
+  "users":[
+    {
+      "id"  : 0,
+      "email" : "user1@example",
+      "password" : "user1"
+    }
   ]
 }
 
